@@ -7,7 +7,7 @@ f2|移动文件
 按一次ctrl-k ，方向键并列视图打开文件
 ctrl-shift-C 复制当前文件绝对路径
 ctrl+alt+f2 添加书签
-c
+
 ctrl-shift-D 复制当前行到下一行
 ctrl-shift-K 删除当前行
 ctrl + d
@@ -20,4 +20,3 @@ ctrl + g
 进入行号跳转面板。
 ctrl + t
 进入文件跳转面板
-df
